@@ -1,0 +1,3 @@
+#conda
+conda create -n shabd python==3.8
+# download and install visual studio, if using installer make sure to check the modify section and install c++ components
